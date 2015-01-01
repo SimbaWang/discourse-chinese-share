@@ -20,7 +20,7 @@ hooks:
 ```
 在那后面添加一行，注意空格对齐。
 ```
-- git clone https://github.com/wuchong/discourse-chinese-share.git
+- git clone https://github.com/simbawang/discourse-chinese-share.git
 ```
 
 重建 Discourse：`/var/discourse/launcher rebuild app`
